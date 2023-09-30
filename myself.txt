@@ -2,4 +2,3 @@ My name is Farhat
 I'm Post Graduated in MCA
 I'm expert in Web Developer
 I'm working with Zolite Technology Pvt.Ltd as a Laravel Developer
-My dream is to be a full stack developer
